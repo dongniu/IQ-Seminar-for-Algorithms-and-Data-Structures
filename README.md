@@ -1,4 +1,4 @@
-# IQ
+# IQ Seminar
 Mac Installation Guide to run IQ-ipython-notebook
 
 ### System Requirements
